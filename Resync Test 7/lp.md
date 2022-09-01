@@ -8,4 +8,4 @@ license: Apache
 scenarioCount: 1
 scenarios:
   - Resync Test 7 Scenario
-title: Resync 7 Lp
+title: Resync Test 7 Scenario
